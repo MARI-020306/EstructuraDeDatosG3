@@ -1,4 +1,3 @@
-``` java
 package mx.edu.uttt.arreglos;
 
 public class DeclaringArrays {
@@ -30,4 +29,3 @@ public class DeclaringArrays {
 
     }
 }
-```
